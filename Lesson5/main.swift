@@ -6,7 +6,4 @@
 //  Copyright © 2020 Feniks. All rights reserved.
 //
 
-import Foundation
-
-print("Hello, World!")
 
